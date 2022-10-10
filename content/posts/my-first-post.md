@@ -1,7 +1,7 @@
 ---
-title: "My First Post"
-date: 2022-07-25T19:34:30+03:00
+title: "My First Web3 Post"
+date: 2022-10-11T19:34:30+03:00
 draft: false
 ---
 
-Hello world
+Hello web3 world
